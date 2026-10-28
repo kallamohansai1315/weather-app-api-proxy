@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Weather App API Proxy
 
 ## Project Overview
@@ -86,3 +87,7 @@ The API key is stored in `.env`. The `.env` file and `node_modules` folder shoul
 ## Author
 
 Mohan Sai
+=======
+# weather-app-api-proxy
+Weather App API Proxy built using Node.js, Express.js, Axios and OpenWeatherMap API.
+>>>>>>> 6882c4e7b9087eb6a3b19d6644fac07fd108fd08
